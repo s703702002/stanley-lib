@@ -4,11 +4,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <button type="button" onClick={() => setCount((count) => count + 1)}>
-        count is: {count}
-      </button>
-    </div>
+    <button data-testid="main-btn" type="button" onClick={() => setCount((count) => count + 1)}>
+      count is: {count}
+    </button>
   )
 }
 
