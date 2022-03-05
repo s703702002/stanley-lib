@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/s703702002/stanley-lib/compare/v1.0.1...v1.1.0) (2022-03-05)
+
+
+### Features
+
+* integrate coveralls ([18f4234](https://github.com/s703702002/stanley-lib/commit/18f4234780bba101ef0d238f165185e79a7094a2))
+
 ## [1.0.1](https://github.com/s703702002/stanley-lib/compare/v1.0.0...v1.0.1) (2022-03-05)
 
 
