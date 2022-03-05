@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/s703702002/stanley-lib/compare/v1.1.0...v1.1.1) (2022-03-05)
+
+
+### Bug Fixes
+
+* embed coverage bedge ([b0b2e22](https://github.com/s703702002/stanley-lib/commit/b0b2e22156104b8ca15a5db9b940397a64c0db05))
+
 # [1.1.0](https://github.com/s703702002/stanley-lib/compare/v1.0.1...v1.1.0) (2022-03-05)
 
 
